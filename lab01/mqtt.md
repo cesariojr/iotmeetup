@@ -35,6 +35,7 @@ A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/r
    - org id
    - device type
    - device id
+   - device token
    - formato tópico para publicar dados : iot-2/evt/< **event id** >/fmt/<  **format string** >
    - iot-2/evt/status/fmt/json
    
