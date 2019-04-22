@@ -36,14 +36,10 @@ A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/r
    - ID do dispositivo : d:< **org id** >:< **device type** >:< **device id** >
    - topico para publicar dados : iot-2/evt/< **event id** >/fmt/<  **format string** >
    - topico para receber comandos : iot-2/cmd/< **command id** >/fmt/< **format string** >
-2. Quando você inicializa o PubSubClient, você precisa passar o nome do host, a porta (1883 para conexões não seguras), uma função de retorno de chamada e uma conexão de rede. A função de retorno de chamada é chamada sempre que mensagens recebidas são recebidas.
 
-3. Ligue para **connect()** para conectar-se à plataforma, passando o ID do dispositivo, um usuário, que é sempre o valor * use-token-auth * e o token escolhido ao registrar o dispositivo.
+2. App Watson IoT Sensor Simulator (http://watson-iot-sensor-simulator.mybluemix.net/)
+Acesse o link http://watson-iot-sensor-simulator.mybluemix.net/
 
-4. A função **subscribe()** registra a conexão para receber mensagens publicadas no tópico em questão.
-5. O método **loop()** deve ser chamado regularmente para manter a conexão ativa e receber mensagens recebidas.
-6. A função **publish()** envia dados sobre o tópico fornecido - *Nota*: Em alguns MQTT Clients, esta função somente enfileira a mensagem para envio. Na verdade, ela é enviada na função **loop()**.
-7. Você pode verificar o status da conexão com a função **connected()**.
 
 
 ***
