@@ -40,6 +40,7 @@ A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/r
 2. App Watson IoT Sensor Simulator (http://watson-iot-sensor-simulator.mybluemix.net/)
 Acesse o link http://watson-iot-sensor-simulator.mybluemix.net/
 
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/lab01/iotsim.png" width="200">
 
 
 ***
