@@ -31,13 +31,16 @@ Inicie o console da plataforma IoT e, em seguida, alterne para a seção Configu
 Ao conectar-se à plataforma Watson IoT, há alguns requisitos em alguns parâmetros usados durante a conexão.
 A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/reference/security/connect_devices_apps_gw.html#connect_devices_apps_gw) oferece mais detalhes:
 
-1. As instruções #define constroem os parâmetros requeridos:
-   - host : < **org id** >.messaging.internetofthings.ibmcloud.com
-   - ID do dispositivo : d:< **org id** >:< **device type** >:< **device id** >
-   - topico para publicar dados : iot-2/evt/< **event id** >/fmt/<  **format string** >
-   - topico para receber comandos : iot-2/cmd/< **command id** >/fmt/< **format string** >
-
+1. Os seguintes parâmetros possibilitam a conexão e publicação de dados:
+   - org id
+   - device type
+   - device id
+   - formato tópico para publicar dados : iot-2/evt/< **event id** >/fmt/<  **format string** >
+   - iot-2/evt/status/fmt/json
+   
+  
 2. App Watson IoT Sensor Simulator (http://watson-iot-sensor-simulator.mybluemix.net/)
+
 Acesse o link http://watson-iot-sensor-simulator.mybluemix.net/
 
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/lab01/iotsim.png" width="400">
