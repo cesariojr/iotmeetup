@@ -15,14 +15,6 @@
 
 - Prática [**Enviando dados para a plataforma Watson IoT usando o MQTT**](MQTT.md)
 
-## Introdução às técnicas de segurança da IoT - 25 min
-
-- Prática [**Protegendo o tráfego do MQTT usando certificado autoassinado**](CERT1.md)
-
-## Adicionando o certificado de clíente - 10 min
-
-- Prática [**Protegendo o tráfego do MQTT usando um certificado de cliente**](CERT2.md)
-
 ***
 *Links Rápidos :*
 [Início](/README.pt.md) - [Parte 1](../part1/README.md) - [Parte 2](../part2/README.md) - [Parte 3](../part3/README.md) - [Parte 4](../part4/README.md)
