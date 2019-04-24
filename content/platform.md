@@ -29,7 +29,7 @@ Selecione **Próximo** depois **Finalizar**
 
 ### Etapa 3 - Registre sua placa ESP8266 na plataforma IoT
 
-Agora você tem a oportunidade de registrar um dispositivo. Continue com o fluxo simples por enquanto e pressione **Register Device**. O tipo de dispositivo ESP8266 deve ser pré-selecionado. Agora você precisa inserir um ID de dispositivo exclusivo. Novamente, você pode escolher como deseja identificar dispositivos. Para o workshop, use um formato simples, como **dev01**.
+Agora você tem a oportunidade de registrar um dispositivo. Continue com o fluxo simples e pressione **Register Device**. O tipo de dispositivo ESP8266 deve ser pré-selecionado. Agora você precisa inserir um ID de dispositivo exclusivo. Novamente, você pode escolher como deseja identificar dispositivos. Para o workshop, use um formato simples, como **dev01**.
 
 Pressione o botão **Próximo** duas vezes e você será solicitado a fornecer um token. Ao desenvolver, recomendo escolher um token que você possa lembrar facilmente. Eu configurei todos os meus dispositivos para usar o mesmo token ao desenvolver, mas obviamente isso não é uma boa prática de produção.
 
