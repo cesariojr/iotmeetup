@@ -37,5 +37,6 @@ O protocolo MQTT é baseado em TCP/IP e todos os clientes e o broker precisam te
 
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/mqtt.png" width="600">
 
+***
 *Links Rápidos :*
-[Introdução](/content/intro.md) - [Parte 1](/content/prereq.md) - [Parte 2](/content/boilerplate.md) - [Parte 3](/content/connect.md) - [Parte 4](/content/device.md) - [Parte 5](/content/view.md) - [Parte 6](/content/nodered.md)
+[Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/access.md) - [Parte 4](/content/boilerplate.md) - [Parte 5](/content/platform.md) - [Parte 6](/content/device.md) - [Parte 7](/content/view.md) - [Parte 8](/content/nodered.md)
