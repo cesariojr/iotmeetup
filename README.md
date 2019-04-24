@@ -30,4 +30,4 @@ Como criar um painel para visualizar os dados do simulador de dispositivo IoT
 Como usar o Node-RED no IBM Cloud para implementar uma solução de IoT e exibir dados
 
 *Links Rápidos :*
-[Introdução](/intro.md) - [Parte 1](/prereq.md) - [Parte 2](/boilerplate.md) - [Parte 3](/connect.md) - [Parte 4](/device.md) - [Parte 5](/view.md) - [Parte 6](/nodered.md)
+[Introdução](/content/intro.md) - [Parte 1](/content/prereq.md) - [Parte 2](/content/boilerplate.md) - [Parte 3](/content/connect.md) - [Parte 4](/content/device.md) - [Parte 5](/content/view.md) - [Parte 6](/content/nodered.md)
