@@ -1,6 +1,8 @@
 # iotmeetup
 Material Meetup IoT 2019
 
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/lab01/iotsim.png" width="400">
+
 
 ## Certifique-se de ter uma conta do IBM Cloud em funcionamento
 
