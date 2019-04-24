@@ -15,7 +15,7 @@ Você precisa decidir como deseja agrupar dispositivos, por função, por tipo d
 
 ### Etapa 1 - Iniciar o console do Watson IoT Platform
 
-No menu lateral esquerdo do portal IBM Cloud, clique em Resource List e, no item Cloud Foundry Services, selecione o serviço iotf criado. Isso levará você ao serviço da Plataforma IoT. Inicie o console.
+No menu lateral esquerdo do portal IBM Cloud, clique em **Resource List** e, no item **Cloud Foundry Services**, selecione o serviço iotf criado. Isso levará você ao serviço da Plataforma IoT. Inicie o console.
 
 ### Etapa 2 - Adicionar um novo tipo de dispositivo para dispositivos ESP8266
 
