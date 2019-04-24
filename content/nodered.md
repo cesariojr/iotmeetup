@@ -6,6 +6,18 @@
 
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered03.png" width="300">
 
+## Instalando o NodeRed Dashboard
+
+### Configuração da instância do NodeRED
+
+No menu de configuração do NodeRED, acesse a opção Manage Pallete
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered04.png" width="300">
+
+### Tab de Instalação
+
+Nas tabs de opção, acesse a tab Install e digite node-red-dashboard no campo de busca. Escolha a opção
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered05.png" width="300">
+
 ***
 *Links Rápidos :*
 [Índice](https://github.com/cesariojr/iotmeetup/) - [Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/access.md) - [Parte 4](/content/boilerplate.md) - [Parte 5](/content/platform.md) - [Parte 6](/content/device.md) - [Parte 7](/content/view.md) - [Parte 8](/content/nodered.md) - [Parte 9](/content/next.md)
