@@ -1,6 +1,6 @@
-## Introdução
+# Parte 1 - Introdução
 
-### Fundamentos de Internet das Coisas - IoT (Internet of Things)
+## Fundamentos de Internet das Coisas - IoT (Internet of Things)
 
 A Internet das Coisas é um conjunto de tecnologias que vem evoluindo há décadas, e nos últimos anos, a expansão de conectividade, criação de plataformas de prototipação, barateamento de dispositivos micro controlados e embarcados e tecnologias de computação em nuvem propiciaram que a Internet das Coisas entrasse no nosso dia a dia tecnológico.
 
@@ -24,7 +24,7 @@ As seguintes tecnologias evoluiram nos últimos anos e possibilitaram que soluç
 
 Essas tecnologias podem cobrir desde redes de comunicação (2G/3G/4G, WiFi, BLE, ZigBee, LoRa, etc), plataformas de prototipação (Arduino, Raspberry Pi, NodeMCU, etc) e plataformas profissionais embarcadas (ARM, PIC, etc), Tecnologias de Automação (CLPs, PCs Industriais, sistemas supervisórios/SCADA, MES, etc) protocolos novos e legados (HTTP, MQTT, COAP, AMQP, OPC-UA, etc), tecnologias de segurança (TLS/SSL, criptografia, segurança lógica e física, etc) que irão conectar-se com aplicações através de APIs e das mais diversas linguagens de programação.
 
-### Protocolo MQTT
+## Protocolo MQTT
 * adaptado de https://developer.bosch.com/web/xdk/mqtt1
 
 O protocolo MQTT (Message Queuing Telemetry Transport) foi desenvolvido pela IBM para possibilitar transferÊncia de dados com uso mínimo de largura de banda e gasto mínima de bateria de dispositivos, conectando oleodutos através de conexão via satélite.
