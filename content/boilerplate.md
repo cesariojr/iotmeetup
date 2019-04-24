@@ -20,4 +20,4 @@ O boilerplate agora está implementando um aplicativo JavaScript executando o No
 Isso pode levar alguns minutos, aguarde.
 
 
-<img src="https://github.com/iotmeetup/blob/master/content/images/starting" width="300">
+<img src="https://github.com/iotmeetup/blob/master/content/images/starting.png" width="300">
