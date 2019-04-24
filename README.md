@@ -1,7 +1,7 @@
 # BlueTalks IoT na Prática: do sensor à nuvem
 Materiais do BlueTalks/Meetup IoT 25/04/2019
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/bluetalks.png" width="400">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/bluetalks.png" width="400">
 
 ## Agenda
 
