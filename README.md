@@ -1,46 +1,33 @@
-# iotmeetup
-Material Meetup IoT 2019
+# BlueTalks IoT na Prática: do sensor à nuvem
+Materiais do BlueTalks/Meetup IoT 25/04/2019
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/lab01/iotsim.png" width="400">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/bluetalks.png" width="400">
 
+## Agenda
 
-## Certifique-se de ter uma conta do IBM Cloud em funcionamento
+### [Parte 1](intro.md)
+Introdução e fundamentos sobre as tecnologias que compõe soluções de Internet das Coisas (IoT - Internet of Things)
 
-O workshop usará serviços hospedados no IBM Cloud, portanto, você precisa garantir que tenha uma conta ativa. Se não, você pode se inscrever gratuitamente, sem precisar inserir nenhum cartão de crédito, seguindo [**este**](https://bluemix.net) link.  O workshop pode ser concluído usando a conta gratuita e gratuita.
+### [Parte 2](prereq.md)
+Pré-requisitos para as atividades
 
+### [Parte 1](acesso.md)
+Como acessar a IBM Cloud e selecionar um espaço apropriado
 
-## Instalando um aplicativo no IBM Cloud
+### [Parte 2](boilerplate.md)
+Como implantar um boilerplate usando um servidor Node.js, Cloudant e o serviço de Internet das Coisas (IBM Watson IoT Platform)
 
-## Objetivos
+### [Parte 3](connect.md)
+Como conectar e registrar um simulador de dispositivo IoT no serviço de Internet das Coisas (IBM Watson IoT Platform)
 
-Neste laboratório, você aprenderá a implementar um aplicativo inicial no IBM Cloud. Você vai aprender:
+### [Parte 4](device.md)
+Como conectar, registrar e enviar dados de um simulador de dispositivo IoT no serviço de Internet das Coisas (IBM Watson IoT Platform) usando o protocolo MQTT.
 
-- Como acessar a nuvem e definir o local desejado para trabalhar
-- Acesse o catálogo de serviços e selecione um boilerplate para implantar
-- Instale um boilerplate no IBM Cloud
+### [Parte 5](view.md)
+Como criar um painel para visualizar os dados do simulador de dispositivo IoT
 
-### Introdução
-
-Antes de concluir a parte 1, você deve implantar o aplicativo inicial que usaremos na Parte 2, pois isso pode levar alguns minutos para ser implantado e ficar disponível.
-
-Antes de iniciar essas etapas, presume-se que você tenha concluído as etapas no [sessão de pré requisitos](PREREQ.md) e ter uma conta ativa do IBM Cloud.
-
-### Etapa 1 - Acessando a nuvem e selecionando um espaço apropriado
-
-Faça o login em sua conta na nuvem e verifique se você está trabalhando em um dos locais dos EUA, do Sul, do Reino Unido ou da Alemanha, pois esses locais têm todos os serviços necessários que usaremos durante o restante do workshop.
-
-Se você ainda não usou nenhum dos locais, precisará criar um **espaço** para poder trabalhar no local escolhido. Para fazer isso no menu superior, selecione *Gerenciar* -> *Conta* -> *Cloud Orgs Orgs* e clique no seu endereço de e-mail para configurar sua organização. Clique para **Adicionar um espaço**, selecione a região e forneça um nome para o espaço.
-
-### Etapa 2 - implantar um boilerplate
-
-Abra o Catálogo usando o menu superior, selecione Starter Kits no menu à esquerda e, em seguida, selecione o Starter da plataforma Internet of Things. Na tela apresentada, insira um nome para o seu aplicativo - isso precisa ser um nome exclusivo para seu aplicativo, portanto, uma boa convenção de nomenclatura é usar suas iniciais seguidas de um nome que descreva o objetivo do aplicativo ou o nome da solução. Isso também fará parte do URL do aplicativo.
-
-Em seguida, selecione o local e o espaço em que você deseja implantar o aplicativo. Deixe as informações do plano Selecionado com os valores padrão e selecione o botão **Criar** .
-
-O boilerplate agora está implementando um aplicativo JavaScript executando o Node-RED, um ambiente de desenvolvimento de código baixo, uma instância do banco de dados Cloudant NoSQL e uma instância da plataforma Watson Internet of Things.
-
-Por favor, deixe isso para implantar - agora é um bom momento para fazer uma pausa.
-
+### [Parte 6](nodered.md)
+Como usar o Node-RED no IBM Cloud para implementar uma solução de IoT e exibir dados
 
 *Links Rápidos :*
-[Início](/README.pt.md) - [Parte 1](../part1/README.md) - [Parte 2](../part2/README.md) - [Parte 3](../part3/README.md) - [Parte 4](../part4/README.md)
+[Introdução](/intro.md) - [Parte 1](/prereq.md) - [Parte 2](/boilerplate.md) - [Parte 3](/connect.md) - [Parte 4](/device.md) - [Parte 5](/view.md) - [Parte 6](/nodered.md)
