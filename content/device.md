@@ -8,7 +8,7 @@ Começaremos usando uma conexão MQTT não segura e, na próxima seção, proteg
 
 ## Etapa 1 - Configurar a plataforma Watson IoT para permitir conexões não seguras
 
-No console da plataforma IoT para a instância conectada ao seu aplicativo Boilerplate, entre na seção **Settings**. Dentro das configurações, selecione **Security** e, em seguida, pressione o botão **Open Connection Security Policy**. Altere o nível de segurança padrão para **TLS Optional**, aceite a mensagem de aviso pressionando o botão Ok e, em seguida, **Salvar** a alteração. Sua instância da plataforma IoT agora aceitará conexões MQTT não seguras. Deixe a janela do navegador mostrando o console da IoT Platform aberto, pois você precisará obter algumas informações ao adicionar o código MQTT ao aplicativo ESP8266.
+No console da plataforma IoT para a instância conectada ao seu aplicativo Boilerplate, entre na seção **Settings**. Dentro das configurações, selecione **Security** e, em seguida, pressione o botão **Open Connection Security Policy**. Altere o nível de segurança padrão para **TLS Optional**, aceite a mensagem de aviso pressionando o botão Ok e, em seguida, **Save** a alteração. Sua instância da plataforma IoT agora aceitará conexões MQTT não seguras. Deixe a janela do navegador mostrando o console da IoT Platform aberto, pois você precisará obter algumas informações ao adicionar o código MQTT ao aplicativo ESP8266.
 
 
 ## Etapa 2 - Como funciona
