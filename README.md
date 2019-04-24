@@ -5,7 +5,7 @@ Materiais do BlueTalks/Meetup IoT 25/04/2019
 
 ## Agenda
 
-### [Parte 1](intro.md)
+### [Parte 1](/content/intro.md)
 Introdução e fundamentos sobre as tecnologias que compõe soluções de Internet das Coisas (IoT - Internet of Things)
 
 ### [Parte 2](prereq.md)
