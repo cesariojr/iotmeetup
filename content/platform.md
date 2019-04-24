@@ -35,7 +35,7 @@ Pressione o botão **Próximo** duas vezes e você será solicitado a fornecer u
 
 Cada vez que você conectar o dispositivo, o token precisará ser apresentado ao servidor e, assim que o dispositivo for registrado, não há como recuperar um token. Você precisará excluir e registrar novamente o dispositivo se o token for perdido.
 
-Digite um token para o seu dispositivo e pressione **Próximo**. Você verá um resumo do dispositivo. Pressione **Concluído** para concluir o registro do dispositivo. Agora você verá uma página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado. Anote a Org, o Tipo de Dispositivo, o ID do Dispositivo e o Token de Autenticação. Você pode até considerar fazer uma captura de tela.
+Digite um token para o seu dispositivo (incluindo letras e números) e pressione **Próximo**. Você verá um resumo do dispositivo. Pressione **Concluído** para concluir o registro do dispositivo. Agora você verá uma página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado. Anote a Organization ID, o Device Type, o Device ID e o Auth Token.
 
 ***
 *Links Rápidos :*
