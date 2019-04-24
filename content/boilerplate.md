@@ -1,7 +1,7 @@
 # Parte 4 - Criando e Implantando um Boilerplate
 Após fazer login com a sua IBM account:
 1. Na barra de pesquisa localizada no menu superior, procure por "Internet of Things Platform Starter"
-<img src="https://github.com/iotmeetup/blob/master/content/images/search-bar.png" width="300">
+<img src="https://github.com/iotmeetup/blob/master/content/images/search-bar.png" width="500">
 
 
 2. Na tela apresentada, insira um nome para o seu aplicativo
