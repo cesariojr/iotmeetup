@@ -19,23 +19,23 @@ No menu lateral esquerdo do portal IBM Cloud, clique em **Resource List** e, no 
 
 ### Etapa 2 - Adicionar um novo tipo de dispositivo para dispositivos ESP8266
 
-Etapa 2 - Adicionar um novo tipo de dispositivo para dispositivos ESP8266 Navegue até a seção Devices do console e selecione a seção **Device Types**. Pressione o botão **+ Adicionar tipo de dispositivo** e insira o seguinte:
+Etapa 2 - Adicionar um novo tipo de dispositivo para dispositivos ESP8266 Navegue até a seção Devices do console e selecione a seção **Device Types**. Pressione o botão **+ Add device type** e insira o seguinte:
 
 - Tipo : Certifique-se de que o dispositivo esteja selecionado (NÃO gateway)
 - Nome : Escreva **ESP8266**
 - Descrição : Escreva **Esp8266 environment monitor**
 
-Selecione **Próximo** depois **Finalizar**
+Selecione **Next** depois **Done**
 
 ### Etapa 3 - Registre sua placa ESP8266 na plataforma IoT
 
 Agora você tem a oportunidade de registrar um dispositivo. Continue com o fluxo simples e pressione **Register Device**. O tipo de dispositivo ESP8266 deve ser pré-selecionado. Agora você precisa inserir um ID de dispositivo exclusivo. Novamente, você pode escolher como deseja identificar dispositivos. Para o workshop, use um formato simples, como **dev01**.
 
-Pressione o botão **Próximo** duas vezes e você será solicitado a fornecer um token. Ao desenvolver, recomendo escolher um token que você possa lembrar facilmente. Eu configurei todos os meus dispositivos para usar o mesmo token ao desenvolver, mas obviamente isso não é uma boa prática de produção.
+Pressione o botão **Next** duas vezes e você será solicitado a fornecer um token. Ao desenvolver, recomendo escolher um token que você possa lembrar facilmente. Eu configurei todos os meus dispositivos para usar o mesmo token ao desenvolver, mas obviamente isso não é uma boa prática de produção.
 
 Cada vez que você conectar o dispositivo, o token precisará ser apresentado ao servidor e, assim que o dispositivo for registrado, não há como recuperar um token. Você precisará excluir e registrar novamente o dispositivo se o token for perdido.
 
-Digite um token para o seu dispositivo (incluindo letras e números) e pressione **Próximo**. Você verá um resumo do dispositivo. Pressione **Concluído** para concluir o registro do dispositivo. Agora você verá uma página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado. Anote a Organization ID, o Device Type, o Device ID e o Auth Token.
+Digite um token para o seu dispositivo (incluindo letras e números) e pressione **Next**. Você verá um resumo do dispositivo. Pressione **Done** para concluir o registro do dispositivo. Agora você verá uma página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado. Anote a Organization ID, o Device Type, o Device ID e o Auth Token.
 
 ***
 *Links Rápidos :*
