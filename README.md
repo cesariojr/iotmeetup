@@ -15,7 +15,7 @@ Pré-requisitos para as atividades
 Como acessar a IBM Cloud e selecionar um espaço apropriado
 
 ### [Parte 4](/content/boilerplate.md)
-Como implantar um boilerplate usando um servidor Node.js, Cloudant e o serviço de Internet das Coisas (IBM Watson IoT Platform)
+Como criar e implantar uma aplicação completa na IBM Cloud, usando um servidor Node.js, banco de dados NoSQL Cloudant e o serviço de Internet das Coisas (IBM Watson IoT Platform)
 
 ### [Parte 5](/content/platform.md)
 Como configurar o serviço de Internet das Coisas (IBM Watson IoT Platform) usando o protocolo MQTT para receber dados de um sensor simulado.
