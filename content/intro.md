@@ -24,5 +24,19 @@ As seguintes tecnologias evoluiram nos últimos anos e possibilitaram que soluç
 
 Essas tecnologias podem cobrir desde redes de comunicação (2G/3G/4G, WiFi, BLE, ZigBee, LoRa, etc), plataformas de prototipação (Arduino, Raspberry Pi, NodeMCU, etc) e plataformas profissionais embarcadas (ARM, PIC, etc), Tecnologias de Automação (CLPs, PCs Industriais, sistemas supervisórios/SCADA, MES, etc) protocolos novos e legados (HTTP, MQTT, COAP, AMQP, OPC-UA, etc), tecnologias de segurança (TLS/SSL, criptografia, segurança lógica e física, etc) que irão conectar-se com aplicações através de APIs e das mais diversas linguagens de programação.
 
+### Protocolo MQTT
+* adaptado de https://developer.bosch.com/web/xdk/mqtt1
 
-https://github.com/cesariojr/iotmeetup/blob/master/content/intro.md
+O protocolo MQTT (Message Queuing Telemetry Transport) foi desenvolvido pela IBM para possibilitar transferÊncia de dados com uso mínimo de largura de banda e gasto mínima de bateria de dispositivos, conectando oleodutos através de conexão via satélite.
+
+Embora o MQTT esteja amplamente associado ao termo "Message Queuing Telemetry Transport", o nome MQTT é proveniente de um produto IBM chamado MQseries e pode ser visto como um protocolo de mensagens de publicação / assinatura baseado em TCP / IP usando o modelo cliente / servidor.
+
+Atualmente é um padrão aberto e ganhou grande aceitação no ambiente IoT e mantém seus objetivos iniciais, como qualidade de entrega de dados de serviço, reconhecimento contínuo de sessão, implementação simples com uma pilha de protocolo leve, especialmente útil em dispositivos embarcados com capacidades limitadas.
+
+O protocolo MQTT é baseado em TCP/IP e todos os clientes e o broker precisam ter uma pilha TCP/IP. O tamanho máximo do payload é de 131072 bytes (128K).
+
+
+
+
+*Links Rápidos :*
+[Introdução](/content/intro.md) - [Parte 1](/content/prereq.md) - [Parte 2](/content/boilerplate.md) - [Parte 3](/content/connect.md) - [Parte 4](/content/device.md) - [Parte 5](/content/view.md) - [Parte 6](/content/nodered.md)
