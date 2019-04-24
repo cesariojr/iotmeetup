@@ -23,3 +23,6 @@ As seguintes tecnologias evoluiram nos últimos anos e possibilitaram que soluç
 8. Amadurecimento de tecnologias web voltadas para programação de dispositivos e equipamentos
 
 Essas tecnologias podem cobrir desde redes de comunicação (2G/3G/4G, WiFi, BLE, ZigBee, LoRa, etc), plataformas de prototipação (Arduino, Raspberry Pi, NodeMCU, etc) e plataformas profissionais embarcadas (ARM, PIC, etc), Tecnologias de Automação (CLPs, PCs Industriais, sistemas supervisórios/SCADA, MES, etc) protocolos novos e legados (HTTP, MQTT, COAP, AMQP, OPC-UA, etc), tecnologias de segurança (TLS/SSL, criptografia, segurança lógica e física, etc) que irão conectar-se com aplicações através de APIs e das mais diversas linguagens de programação.
+
+
+https://github.com/cesariojr/iotmeetup/blob/master/content/intro.md
