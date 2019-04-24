@@ -46,6 +46,9 @@ Acesse o link http://watson-iot-sensor-simulator.mybluemix.net/
 
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iotsim.png" width="400">
 
+3. Após o registro, uma tela similar a figura abaixo deve ser exibida:
+
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/devicesim.png" width="300">
 
 ***
 **Parte 2** - [Registro de Dispositivo](DEVICE.md) - [**Aplicação**](APP.md) - [MQTT](MQTT.md) - [Certificado Servidor](CERT1.md) - [Certificado Cliente](CERT2.md)
