@@ -3,7 +3,7 @@
 1. Ter acesso a um computador pessoal com acesso à Internet
 
 2. Certifique-se de ter uma conta da IBM Cloud em funcionamento.
-Usaremos serviços gratuitos hospedados na IBM Cloud, portanto, você precisa garantir que tenha uma conta ativa. Se não, você pode se inscrever gratuitamente, sem precisar inserir nenhum cartão de crédito, pelo [**portal IBM Cloud**](http://cloud.ibm.com/).
+Usaremos serviços gratuitos hospedados na IBM Cloud, portanto, você precisa garantir que tenha uma conta ativa. Se não, você pode se inscrever gratuitamente, sem precisar inserir nenhum cartão de crédito, pelo portal [**IBM Cloud**](http://cloud.ibm.com/).
 
 3. Conhecimento básico de programação
 
