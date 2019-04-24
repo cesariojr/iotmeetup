@@ -14,7 +14,7 @@ Obs: Precisa ser um nome exclusivo para seu aplicativo, portanto uma boa conven�
 
 
 
-# Provisionamento
+# Iniciando
 O boilerplate agora está implementando um aplicativo JavaScript executando o Node-RED, um ambiente de desenvolvimento de código baixo, uma instância do banco de dados Cloudant NoSQL e uma instância da plataforma Watson Internet of Things. 
 
 Isso pode levar alguns minutos, aguarde.
