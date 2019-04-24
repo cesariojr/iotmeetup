@@ -1,4 +1,4 @@
-# Pré-requisitos
+# Parte 2 - Pré-requisitos
 
 1. Ter acesso a um computador pessoal com acesso à Internet
 
@@ -7,5 +7,6 @@ Usaremos serviços hospedados no IBM Cloud, portanto, você precisa garantir que
 
 3. Conhecimento básico de programação
 
+***
 *Links Rápidos :*
-[Introdução](/intro.md) - [Parte 1](/prereq.md) - [Parte 2](/boilerplate.md) - [Parte 3](/connect.md) - [Parte 4](/device.md) - [Parte 5](/view.md) - [Parte 6](/nodered.md)
+[Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/access.md) - [Parte 4](/content/boilerplate.md) - [Parte 5](/content/platform.md) - [Parte 6](/content/device.md) - [Parte 7](/content/view.md) - [Parte 8](/content/nodered.md)
