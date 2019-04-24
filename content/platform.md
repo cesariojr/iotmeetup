@@ -1,4 +1,4 @@
-# Registrando um novo dispositivo no IBM Watson IoT Platform
+# Parte 5 - Registrando um novo dispositivo no IBM Watson IoT Platform
 
 ## Objetivos
 
