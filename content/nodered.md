@@ -11,11 +11,13 @@
 ### Configuração da instância do NodeRED
 
 No menu de configuração do NodeRED, acesse a opção Manage Pallete
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered04.png" width="300">
 
 ### Tab de Instalação
 
 Nas tabs de opção, acesse a tab Install e digite node-red-dashboard no campo de busca. Escolha a opção
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered05.png" width="300">
 
 ***
