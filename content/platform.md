@@ -1,14 +1,8 @@
-*Links Rápidos :*
-[Início](/README.pt.md) - [Parte 1](../part1/README.md) - [Parte 2](../part2/README.md) - [Parte 3](../part3/README.md) - [Parte 4](../part4/README.md)
-***
-**Parte 2** - [Registro de Dispositivo](DEVICE.md) - [**Aplicação**](APP.md) - [MQTT](MQTT.md) - [Certificado Servidor](CERT1.md) - [Certificado Cliente](CERT2.md)
-***
-
-# Registrando um novo dispositivo no Watson IoT Platform
+# Registrando um novo dispositivo no IBM Watson IoT Platform
 
 ## Objetivos
 
-Este laboratório mostrará como registrar seu ESP8266 com a plataforma IBM Watson Internet of Things. No laboratório você aprenderá:
+Este laboratório mostrará como registrar seu dispositivo simulado com a plataforma IBM Watson Internet of Things. No laboratório você aprenderá:
 
 - Como navegar para o console da IoT Platform
 - Como definir um tipo de dispositivo e registrar um dispositivo na plataforma IoT
@@ -44,7 +38,5 @@ Cada vez que você conectar o dispositivo, o token precisará ser apresentado ao
 Digite um token para o seu dispositivo e pressione **Próximo**. Você verá um resumo do dispositivo. Pressione **Concluído** para concluir o registro do dispositivo. Agora você verá uma página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado. Anote a Org, o Tipo de Dispositivo, o ID do Dispositivo e o Token de Autenticação. Você pode até considerar fazer uma captura de tela.
 
 ***
-**Parte 2** - [Registro de Dispositivo](DEVICE.md) - [**Aplicação**](APP.md) - [MQTT](MQTT.md) - [Certificado Servidor](CERT1.md) - [Certificado Cliente](CERT2.md)
-***
 *Links Rápidos :*
-[Início](/README.pt.md) - [Parte 1](../part1/README.md) - [Parte 2](../part2/README.md) - [Parte 3](../part3/README.md) - [Parte 4](../part4/README.md)
+[Índice](https://github.com/cesariojr/iotmeetup/) - [Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/access.md) - [Parte 4](/content/boilerplate.md) - [Parte 5](/content/platform.md) - [Parte 6](/content/device.md) - [Parte 7](/content/view.md) - [Parte 8](/content/nodered.md) - [Parte 9](/content/next.md)
