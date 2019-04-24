@@ -5,6 +5,7 @@ Após fazer login com a sua IBM account:
 
 
 2. Na tela apresentada, insira um nome para o seu aplicativo
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/iot-name.png" width="500">
 
 Obs: Precisa ser um nome exclusivo para seu aplicativo, portanto uma boa convenção de nomenclatura é usar suas iniciais seguidas de um nome que descreva o objetivo do aplicativo ou o nome da solução. Isso também fará parte do URL do aplicativo.
 
@@ -19,4 +20,4 @@ O boilerplate agora está implementando um aplicativo JavaScript executando o No
 Isso pode levar alguns minutos, aguarde.
 
 
-<img src="https://github.com/iotmeetup/blob/master/content/images/boilerplate" width="300">
+<img src="https://github.com/iotmeetup/blob/master/content/images/starting" width="300">
