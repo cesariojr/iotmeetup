@@ -1,15 +1,15 @@
 # Parte 7 - NodeRED
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered01.png" width="300">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered01.png" width="600">
 </p>
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered02.png" width="300">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered02.png" width="600">
 </p>
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered03.png" width="300">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered03.png" width="600">
 </p>
 
 ## Instalando o NodeRed Dashboard
