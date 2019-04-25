@@ -41,31 +41,39 @@ Na tela acima, selecione:
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp6.png" width="500">
 
 A seguinte tela sera exibida:
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp7.png" width="500">
 
 **Preencha os campos conforme a tela abaixo:
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp8.png" width="500">
 
 - Device Type ou Tipo de Dispositivo: escreva **simulador**
 - Device ID ou ID do Dispositivo: escreva **simulador01**
 - Selecione **Next** na tela abaixo:
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp9.png" width="500">
 
 - Na próxima tela, você deve selecionar o token de autenticação (ou senha) para acesso ao dispositivo. Você pode deixar a IBM Watson IoT Platform gerar um token automaticamente ou você pode fornecer um token.
 No nosso laboratório, iremos fornecer o token, conforme tela abaixo:
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp10.png" width="500">
 
 **IMPORTANTE: O token deve seguir as regras de segurança propostas pelo serviço e uma vez que você fornecer o token, guarde a informação com segurança. A responsabilidade pela criação e manutenção do token é do usuário**
 
 A seguinte tela será apresentada para confirmação dos dados:
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp11.png" width="500">
 
 Clique no botão **Done** e a tela final será apresentada:
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp12.png" width="500">
 
 **Guarde com segurança os dados apresentados.Essa é a página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado.**
 
 **Anote a Organization ID, o Device Type, o Device ID e o Auth Token.**
+
+Pronto! Agora você já tem um dispositivo simulado configurado na IBM Watson IoT Platform.
 
 ***
 *Links Rápidos :*
