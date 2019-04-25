@@ -42,23 +42,21 @@ Uma vez o nó do IBM Watson IoT App In configurado, configure o nó **temp**, cl
 
 Na função de pré-inserida, baseado no corpo JSON a ser enviado pela plataforma Watson IoT, deve-se substituir a chave **temp** por **temperature**.
 
-## Instalando o NodeRed Dashboard
+## Etapa 4 - Instalando o Node-Red Dashboard
 
-### Configuração da instância do NodeRED
-
-No menu de configuração do NodeRED, acesse a opção Manage Pallete
-
-<p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered04.png" width="200">
-</p>
-
-### Tab de Instalação
-
-Nas tabs de opção, acesse a tab Install e digite node-red-dashboard no campo de busca. Escolha a opção
+Para a criação de um *dashboard* Node-RED, deve-se instalar tal biblioteca. Para isso, no canto superior direito, acesse no menu-sanduíche e então clique em **Managa palette**. Na aba **install**, pesquise por "node-red-dashboard" e então, o instale.
 
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered05.png" width="400">
 </p>
+
+## Etapa 5 - Configurando dashboard
+
+Uma vez instalado o *dashboard* padrão do Node-RED, no menu lateral esquerdo, busque por **dashboard** e insira no *flow* um nó de **gauge**, por exemplo.
+
+Então, conecte o fornecedor de dados (no caso, o nó IBM Watson IoT App In) ao nó inserido.
+
+Para configurar o nó criado, clique duas vezes e entç
 
 ***
 Links Rápidos :
