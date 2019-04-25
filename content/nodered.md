@@ -1,5 +1,14 @@
 # Parte 7 - NodeRED
 
+## Etapa 1 - Acessando o Node-RED
+
+Em primeiro lugar, retorne ao portal IBM Cloud e acesse a lista de recursos.
+
+A seguir acesse o aplicativo de Cloud Foundry instanciado anteriormente
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/resource-list.png" width="500">
+</p>
+
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered01.png" width="600">
 </p>
