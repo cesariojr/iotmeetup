@@ -20,13 +20,13 @@ Altere o nível de segurança padrão para **TLS Optional**, aceite a mensagem d
 ## Etapa 2 - Conectar com o simulador de dispositivo na IBM Watson IoT Platform
 
 Ao conectar-se na IBM Watson IoT Platform, há alguns requisitos em alguns parâmetros usados durante a conexão.
-A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/reference/security/connect_devices_apps_gw.html#connect_devices_apps_gw) oferece mais detalhes:
+A [documentação da plataforma](https://cloud.ibm.com/docs/services/IoT/reference/security?topic=iot-platform-connect_devices_apps_gw#connect_devices_apps_gw) oferece mais detalhes:
 
 1. Os seguintes parâmetros possibilitam a conexão e publicação de dados:
-   - org id
-   - device type
-   - device id
-   - device token
+   - Organization ID
+   - Device type
+   - Device id
+   - Device token
    - Tópico: iot-2/evt/status/fmt/json
    
   
