@@ -48,10 +48,16 @@ Clique em **Next**, e a seguir crie um novo *dataset* como no exemplo:
 
 Prossiga com a etapa de criação e então, para melhor visualização, selecione o tamanho XL.
 
-Clique em **Next**, e finalmente insira um título à ferramenta de visualização a ser criada.
+Clique em **Next**, e então insira um título à ferramenta de visualização a ser criada.
 
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/title.png" width="500">
+</p>
+
+Uma vez concluído, o gráfico criado deve ser exibido no *board* referenciado.
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/graph.png" width="500">
 </p>
 
 ***
