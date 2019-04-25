@@ -52,9 +52,6 @@ Na tela acima, selecione:
 1. No menu lateral esquerdo a opção **Devices** ou **Dispositivos** ou;
 2. Na parte direita da tela, clique no botão **Add Device** ou **Adicionar Dispositivo**
 
-<p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp5.png" width="600">
-</p>
 
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp6.png" width="600">
