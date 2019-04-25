@@ -49,7 +49,7 @@ Pronto ! Agora você tem o simulador de dispositivos configurado e conectado na 
 Acesse o menu **Dispositivos** ou **Devices** e selecione o dispositivo criado (simulador01) e você deve ver os dados chegando em tempo real do simulador para a IBM Watson IoT Platform
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/json.png" width="300">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/json.png" width="600">
 </p>
 
 ***
