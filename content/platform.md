@@ -66,7 +66,7 @@ A seguinte tela sera exibida:
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp7.png" width="600">
 </p>
 
-**Preencha os campos conforme a tela abaixo:
+**Preencha os campos conforme a tela abaixo:**
 
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp8.png" width="600">
