@@ -48,7 +48,7 @@ Em primeiro lugar, adicione um novo *flow* clicando no botão "+", localizado no
 
 Do **Flow 1**, copie os nós **IBM IoT App In** e **temp** para o **Flow 2**.
 
-Para a criação de um *dashboard* Node-RED, deve-se instalar tal biblioteca. Para isso, no canto superior direito, acesse no menu-sanduíche e então clique em **Managa palette**. Na aba **install**, pesquise por "node-red-dashboard" e então, o instale.
+Para a criação de um *dashboard* Node-RED, deve-se instalar tal biblioteca. Para isso, no canto superior direito, acesse no menu-sanduíche e então clique em **Manage palette**. Na aba **install**, pesquise por "node-red-dashboard" e então, o instale.
 
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered05.png" width="400">
