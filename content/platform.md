@@ -13,9 +13,15 @@ Antes de poder conectar um dispositivo no IBM Watson IoT Platform, você precisa
 
 Você precisa decidir como deseja agrupar dispositivos, por função, por tipo de hardware, etc. Cada dispositivo registrado na plataforma deve ser registrado em um tipo de dispositivo. Não há restrições sobre como os dispositivos são agrupados e os tipos de dispositivos. Para esta oficina, criaremos um tipo de dispositivo representando os dispositivos simulados.
 
-### Etapa 1 - Iniciar o console do IBM Watson IoT Platform
+### Etapa 1 - Acessar o console do IBM Watson IoT Platform
 
-No menu lateral esquerdo do portal IBM Cloud, clique em **Resource List** e, no item **Cloud Foundry Services**, selecione o serviço iotf criado. Isso levará você ao serviço da Plataforma IoT. Inicie o console.
+No menu lateral esquerdo do portal IBM Cloud, clique em **Resource List** e busque a seção **Cloud Foundry Apps**.
+Você deve ver seu bloilerplate criado na parte anterior, conforme figura abaixo:
+
+
+
+
+e, no item **Cloud Foundry Services**, selecione o serviço iotf criado. Isso levará você ao serviço da Plataforma IoT. Inicie o console.
 
 ### Etapa 2 - Adicionar um novo tipo de dispositivo para dispositivos ESP8266
 
