@@ -32,19 +32,25 @@ A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/r
   
 2. Acesse o App Watson IoT Sensor Simulator no endereço http://watson-iot-sensor-simulator.mybluemix.net/
 
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iotsim.png" width="400">
+</p>
 
 3. Será apresentada a tela de registro, onde você deve fornecer os dados de org id, device type, device id e device token criados no laboratório anterior.
 
 Após o registro, uma tela similar a figura abaixo deve ser exibida:
 
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/devicesim.png" width="300">
+</p>
 
 Pronto ! Agora você tem o simulador de dispositivos configurado e conectado na IBM Watson IoT Platform.
 
 Acesse o menu **Dispositivos** ou **Devices** e selecione o dispositivo criado (simulador01) e você deve ver os dados chegando em tempo real do simulador para a IBM Watson IoT Platform
 
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/json.png" width="300">
+</p>
 
 ***
 *Links Rápidos :*
