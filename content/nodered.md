@@ -63,25 +63,25 @@ E então, a fim de configurar o *dashboard*, clique duas vezes no nó **gauge**.
 Para cadastrar um **Group**, adicione uma **Tab** ao grupo como na imagem abaixo:
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/image/tab.png" width="400">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/tab.png" width="400">
 </p>
 
 Insira as propriedades de grupo:
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/image/group.png" width="400">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/group.png" width="400">
 </p>
 
 E as propriedades gerais do nó **gauge**:
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/image/gauge.png" width="400">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/gauge.png" width="400">
 </p>
 
 Pronto! As configurações já estão feitas! Basta agora, fazer o *deploy* e visualizar a aplicação através do botão **dashboard**.
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/image/visu.png" width="400">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/visu.png" width="400">
 </p>
 
 ***
