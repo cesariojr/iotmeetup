@@ -9,10 +9,22 @@ A seguir acesse o aplicativo de Cloud Foundry instanciado anteriormente.
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/resource-list.png" width="700">
 </p>
 
-Então, a fim de visualizar a aplicação node-RED, clique em **Visit App URL**
+Então, a fim de visualizar a aplicação node-RED, clique em **Visit App URL**. 
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nr-0.png" width="600">
+</p>
+
+
+Clique em **Next** e na tela seguinte crie um Username e um Password de acesso. Para concluir o processo, clique em **Finish**
+
+A seguinte tela deverá ser exibida:
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered01.png" width="600">
 </p>
+
+
+
 
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered02.png" width="600">
