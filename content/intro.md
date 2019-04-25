@@ -28,7 +28,7 @@ Essas tecnologias podem cobrir desde redes de comunicação (2G/3G/4G, WiFi, BLE
 
 ## Protocolo MQTT
 
-O protocolo MQTT (Message Queuing Telemetry Transport) foi desenvolvido pela IBM para possibilitar transferÊncia de dados com uso mínimo de largura de banda e gasto mínima de bateria de dispositivos, conectando oleodutos através de conexão via satélite.
+O protocolo MQTT (Message Queuing Telemetry Transport) foi desenvolvido pela IBM para possibilitar transferência de dados com uso mínimo de largura de banda e gasto mínima de bateria de dispositivos, conectando oleodutos através de conexão via satélite.
 
 Embora o MQTT esteja amplamente associado ao termo "Message Queuing Telemetry Transport", o nome MQTT é proveniente de um produto IBM chamado MQseries e pode ser visto como um protocolo de mensagens de publicação / assinatura baseado em TCP / IP usando o modelo cliente / servidor.
 
