@@ -1,7 +1,8 @@
 # Parte 6 - Como visualizar os dados do simulador de dispositivo no IBM Watson IoT Platform
 
-
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/board.png" width="500">
+</p>
 
 ***
 Links Rápidos :
