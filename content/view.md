@@ -57,7 +57,7 @@ Clique em **Next**, e então insira um título à ferramenta de visualização a
 Uma vez concluído, o gráfico criado deve ser exibido no *board* referenciado.
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/graph.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/graph.png" width="800">
 </p>
 
 ***
