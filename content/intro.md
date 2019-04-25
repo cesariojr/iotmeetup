@@ -2,7 +2,7 @@
 
 ## Fundamentos de Internet das Coisas - IoT (Internet of Things)
 
-A Internet das Coisas é um conjunto de tecnologias que vem evoluindo há décadas, e nos últimos anos, a expansão de conectividade, criação de plataformas de prototipação, barateamento de dispositivos micro controlados e embarcados e tecnologias de computação em nuvem propiciaram que a Internet das Coisas entrasse no nosso dia a dia tecnológico.
+A Internet das Coisas é um conjunto de tecnologias que vem evoluindo a décadas, e nos últimos anos, a expansão de conectividade, criação de plataformas de prototipação, barateamento de dispositivos micro controlados e embarcados e tecnologias de computação em nuvem propiciaram que a Internet das Coisas entrasse no nosso dia a dia tecnológico.
 
 As principais tecnologias combinam capacidades de computação, comunicação e controle, simultaneamente e podem ser aplicadas em diversas áreas e combinadas com outras tecnologias.
 
@@ -36,11 +36,11 @@ Atualmente é um padrão aberto e ganhou grande aceitação no ambiente IoT e ma
 
 O protocolo MQTT é baseado em TCP/IP e todos os clientes e o broker precisam ter uma pilha TCP/IP. O tamanho máximo do payload é de 131072 bytes (128K). Veja a representação simplificada do modelo ISO/OSI na figura abaixo:
 
-* Adaptado de https://developer.bosch.com/web/xdk/mqtt1
-
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/mqtt.png" width="400">
 </p>
+
+\* Adaptado de https://developer.bosch.com/web/xdk/mqtt1
 
 ***
 *Links Rápidos :*
