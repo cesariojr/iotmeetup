@@ -6,7 +6,9 @@ A Internet das Coisas é um conjunto de tecnologias que vem evoluindo há décad
 
 As principais tecnologias combinam capacidades de computação, comunicação e controle, simultaneamente e podem ser aplicadas em diversas áreas e combinadas com outras tecnologias.
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iot.png" width="600">
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iot.png" width="300">
+</p>
 
 Figura 1: Definição de "coisa" digital
 Fonte: Silvio Meira, 12/12/2016, blog ikewai
