@@ -28,7 +28,7 @@ E então, prossiga apertando o botão **Submit**.
 
 Após isso, verifique que o *board* criado se encontra presente na seção **Your boards**
 
-## Etapa 1 - Criação do card
+## Etapa 2 - Criação do card
 
 A seguir, a fim de adicionar um novo *card* para visualização das saídas do dispositivo, clique em **+ Add New Card**.
 
