@@ -37,7 +37,9 @@ Atualmente é um padrão aberto e ganhou grande aceitação no ambiente IoT e ma
 
 O protocolo MQTT é baseado em TCP/IP e todos os clientes e o broker precisam ter uma pilha TCP/IP. O tamanho máximo do payload é de 131072 bytes (128K). Veja a representação simplificada do modelo ISO/OSI na figura abaixo:
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/mqtt.png" width="600">
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/mqtt.png" width="300">
+</p>
 
 ***
 *Links Rápidos :*
