@@ -43,7 +43,7 @@ Selecione a forma de exibição **Line chart**, e então selecione o dispositivo
 Clique em **Next**, e a seguir crie um novo *dataset* como no exemplo:
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/new-board.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/dataset.png" width="500">
 </p>
 
 ***
