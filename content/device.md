@@ -15,7 +15,9 @@ Dentro das configurações, selecione **Security** e, em seguida, pressione o bo
 
 Altere o nível de segurança padrão para **TLS Optional**, aceite a mensagem de aviso pressionando o botão Ok e, em seguida, **Save** a alteração. Sua instância da plataforma IoT agora aceitará conexões MQTT não seguras.
 
-<img align="center" src="https://github.com/cesariojr/iotmeetup/blob/master/content/security.png" width="600">
+<p align="center">
+  <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/security.png" width="600">
+</p>
 
 ## Etapa 2 - Conectar com o simulador de dispositivo na IBM Watson IoT Platform
 
