@@ -30,5 +30,5 @@ Como usar o Node-RED no IBM Cloud para implementar uma solução de IoT na IBM C
 Próximos passos na sua jornada na IBM Cloud e Internet das Coisas
 
 ***
-*Links Rápidos :*
+Links Rápidos:
 [Índice](https://github.com/cesariojr/iotmeetup/) - [Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/boilerplate.md) - [Parte 4](/content/platform.md) - [Parte 5](/content/device.md) - [Parte 6](/content/view.md) - [Parte 7](/content/nodered.md) - [Parte 8](/content/next.md)
