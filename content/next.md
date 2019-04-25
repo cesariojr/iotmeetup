@@ -21,13 +21,17 @@ https://github.com/binnes/esp8266Workshop
 
 ## Watson IoT Platform - recursos adicionais
 
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iot01.png" width="400">
+</p>
 
 Cloudant
 DB2 Warehouse
 Object Storage
 
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iot02.png" width="400">
+</p>
 
 ***
 Links Rápidos :
