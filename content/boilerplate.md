@@ -15,13 +15,13 @@ Obs: O nome do seu aplicativo deve ser **único** para seu aplicativo, portanto 
 
 3. Em seguida, selecione o local e o espaço em que você deseja implantar o aplicativo. Deixe as informações do plano selecionado com a versão **lite** e selecione o botão **Criar** (ou Create).
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/boilerplate.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/boilerplate.png" width="500">
 
 ## Processo de instanciação dos serviços e aplicação
 Após selecionar o botão o botão **Criar** (ou Create), o boilerplate irá instanciar cada um dos serviços descritos.
 **Esse processo levará em torno de 5 minutos:**
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/starting.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/starting.png" width="500">
 
 Após alguns instantes, na lista de recursos, você deverá encontrar sua aplicação e os seguintes serviços
 
