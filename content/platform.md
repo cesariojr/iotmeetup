@@ -16,34 +16,57 @@ Você precisa decidir como deseja agrupar dispositivos, por função, por tipo d
 ### Etapa 1 - Acessar o console do IBM Watson IoT Platform
 
 No menu lateral esquerdo do portal IBM Cloud, clique em **Resource List** e busque a seção **Cloud Foundry Apps**.
-Você deve ver seu bloilerplate criado na parte anterior, conforme figura abaixo:
+Você deve ver o boilerplate criado na parte anterior, conforme figura abaixo:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp.png" width="500">
 
+Clique no nome da sua aplicação e a seguinte tela deve aparecer:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp2.png" width="500">
 
+Na seção **Conexões** ou **Connections**, clique na entrada do serviço IBM Watson IoT Platform, conforme figura abaixo:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp3.png" width="500">
 
+Finalmente, na tela baixo, clique na opção **Abrir** ou **Launch**:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp4.png" width="500">
 
-e, no item **Cloud Foundry Services**, selecione o serviço iotf criado. Isso levará você ao serviço da Plataforma IoT. Inicie o console.
+### Etapa 2 - Adicionar o dispositivo simulado no IBM Watson IoT Platform
 
-### Etapa 2 - Adicionar um novo tipo de dispositivo para dispositivos ESP8266
+Dentro do serviço IBM Watson IoT Platform, você chegar na seguinte tela:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp5.png" width="500">
 
-Etapa 2 - Adicionar um novo tipo de dispositivo para dispositivos ESP8266 Navegue até a seção Devices do console e selecione a seção **Device Types**. Pressione o botão **+ Add device type** e insira o seguinte:
+Na tela acima, selecione:
+1. No menu lateral esquerdo a opção **Devices** ou **Dispositivos** ou;
+2. Na parte direita da tela, clique no botão **Add Device** ou **Adicionar Dispositivo**
 
-- Tipo : Certifique-se de que o dispositivo esteja selecionado (NÃO gateway)
-- Nome : Escreva **ESP8266**
-- Descrição : Escreva **Esp8266 environment monitor**
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp5.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp6.png" width="500">
 
-Selecione **Next** depois **Done**
+A seguinte tela sera exibida:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp7.png" width="500">
 
-### Etapa 3 - Registre sua placa ESP8266 na plataforma IoT
+**Preencha os campos conforme a tela abaixo:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp8.png" width="500">
 
-Agora você tem a oportunidade de registrar um dispositivo. Continue com o fluxo simples e pressione **Register Device**. O tipo de dispositivo ESP8266 deve ser pré-selecionado. Agora você precisa inserir um ID de dispositivo exclusivo. Novamente, você pode escolher como deseja identificar dispositivos. Para o workshop, use um formato simples, como **dev01**.
+- Device Type ou Tipo de Dispositivo: escreva **simulador**
+- Device ID ou ID do Dispositivo: escreva **simulador01**
+- Selecione **Next** na tela abaixo:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp9.png" width="500">
 
-Pressione o botão **Next** duas vezes e você será solicitado a fornecer um token. Ao desenvolver, recomendo escolher um token que você possa lembrar facilmente. Eu configurei todos os meus dispositivos para usar o mesmo token ao desenvolver, mas obviamente isso não é uma boa prática de produção.
+- Na próxima tela, você deve selecionar o token de autenticação (ou senha) para acesso ao dispositivo. Você pode deixar a IBM Watson IoT Platform gerar um token automaticamente ou você pode fornecer um token.
+No nosso laboratório, iremos fornecer o token, conforme tela abaixo:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp10.png" width="500">
 
-Cada vez que você conectar o dispositivo, o token precisará ser apresentado ao servidor e, assim que o dispositivo for registrado, não há como recuperar um token. Você precisará excluir e registrar novamente o dispositivo se o token for perdido.
+**IMPORTANTE: O token deve seguir as regras de segurança propostas pelo serviço e uma vez que você fornecer o token, guarde a informação com segurança. A responsabilidade pela criação e manutenção do token é do usuário**
 
-Digite um token para o seu dispositivo (incluindo letras e números) e pressione **Next**. Você verá um resumo do dispositivo. Pressione **Done** para concluir o registro do dispositivo. Agora você verá uma página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado. Anote a Organization ID, o Device Type, o Device ID e o Auth Token.
+A seguinte tela será apresentada para confirmação dos dados:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp11.png" width="500">
+
+Clique no botão **Done** e a tela final será apresentada:
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/wiotp12.png" width="500">
+
+**Guarde com segurança os dados apresentados.Essa é a página de detalhamento do dispositivo - essa é a última chance de ver o token. Depois de sair desta página, o token não pode ser recuperado.**
+
+**Anote a Organization ID, o Device Type, o Device ID e o Auth Token.**
 
 ***
 *Links Rápidos :*
 [Índice](https://github.com/cesariojr/iotmeetup/) - [Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/boilerplate.md) - [Parte 4](/content/platform.md) - [Parte 5](/content/device.md) - [Parte 6](/content/view.md) - [Parte 7](/content/nodered.md) - [Parte 8](/content/next.md)
-
