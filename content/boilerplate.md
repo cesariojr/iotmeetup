@@ -21,7 +21,7 @@ Obs: O nome do seu aplicativo deve ser **único** para seu aplicativo, portanto 
 Após selecionar o botão o botão **Criar** (ou Create), o boilerplate irá instanciar cada um dos serviços descritos.
 **Esse processo levará em torno de 5 minutos:**
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/starting.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/starting.png" width="500">
 
 Após alguns instantes, na lista de recursos, você deverá encontrar sua aplicação e os seguintes serviços
 
