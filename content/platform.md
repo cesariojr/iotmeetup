@@ -2,18 +2,18 @@
 
 ## Objetivos
 
-Este laboratório mostrará como registrar seu dispositivo simulado com a plataforma IBM Watson Internet of Things. No laboratório você aprenderá:
+Este laboratório mostrará como registrar seu dispositivo simulado com o IBM Watson IoT Platform. No laboratório você aprenderá:
 
-- Como navegar para o console da IoT Platform
+- Como navegar para o console do IBM Watson IoT Platform
 - Como definir um tipo de dispositivo e registrar um dispositivo na plataforma IoT
 
 ### Introdução
 
-Antes de poder conectar um dispositivo ao Watson IoT Platform, você precisa definir como o dispositivo se conectará à plataforma e também registrar o dispositivo para gerar um token de acesso para o dispositivo. Isso será usado para verificar a identidade do dispositivo (voltaremos à autenticação do dispositivo posteriormente nesta parte do workshop).
+Antes de poder conectar um dispositivo no IBM Watson IoT Platform, você precisa definir como o dispositivo se conectará à plataforma e também registrar o dispositivo para gerar um token de acesso para o dispositivo. Isso será usado para verificar a identidade do dispositivo.
 
-Você precisa decidir como deseja agrupar dispositivos, por função, por tipo de hardware, etc. Cada dispositivo registrado na plataforma deve ser registrado em um tipo de dispositivo. Não há restrições sobre como os dispositivos são agrupados e os tipos de dispositivos. Para esta oficina, criaremos um tipo de dispositivo representando os dispositivos ESP8266.
+Você precisa decidir como deseja agrupar dispositivos, por função, por tipo de hardware, etc. Cada dispositivo registrado na plataforma deve ser registrado em um tipo de dispositivo. Não há restrições sobre como os dispositivos são agrupados e os tipos de dispositivos. Para esta oficina, criaremos um tipo de dispositivo representando os dispositivos simulados.
 
-### Etapa 1 - Iniciar o console do Watson IoT Platform
+### Etapa 1 - Iniciar o console do IBM Watson IoT Platform
 
 No menu lateral esquerdo do portal IBM Cloud, clique em **Resource List** e, no item **Cloud Foundry Services**, selecione o serviço iotf criado. Isso levará você ao serviço da Plataforma IoT. Inicie o console.
 
