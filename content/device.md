@@ -1,17 +1,23 @@
-# Parte 5 - Como conectar o simulador de dispositivo de IoT no IBM Watson IoT Platform
+# Parte 5 - Como enviar dados do simulador de dispositivo para a IoT no IBM Watson IoT Platform
 
 ## Introdução
 
-No laboratório anterior, você construiu o aplicativo de sensor autônomo. Agora, queremos torná-lo um aplicativo do Internet of Things, adicionando o MQTT para enviar os dados para a plataforma IoT.
+No laboratório anterior, você criou uma entrada para o simulador do dispositivo no IBM Watson IoT Platform.
+Agora, queremos torná-lo um aplicativo do Internet of Things, adicionando o MQTT para enviar os dados para a plataforma IoT.
 
-Começaremos usando uma conexão MQTT não segura e, na próxima seção, protegeremos a conexão. No entanto, a plataforma Watson IoT é configurada para bloquear todas as conexões não seguras por padrão, portanto, é necessário configurar sua instância do Watson IoT para permitir a conexão não segura.
+Começaremos usando uma conexão MQTT sem TLS (não segura). No entanto, a IBM Watson IoT Platform é configurada para bloquear todas as conexões não seguras por padrão, portanto, é necessário configurar sua instância do Watson IoT para permitir a conexão não segura.
 
-## Etapa 1 - Configurar a plataforma Watson IoT para permitir conexões não seguras
+## Etapa 1 - Configurar o IBM Watson IoT Platform para permitir conexões não seguras
 
-No console da plataforma IoT para a instância conectada ao seu aplicativo Boilerplate, entre na seção **Settings**. Dentro das configurações, selecione **Security** e, em seguida, pressione o botão **Open Connection Security Policy**. Altere o nível de segurança padrão para **TLS Optional**, aceite a mensagem de aviso pressionando o botão Ok e, em seguida, **Save** a alteração. Sua instância da plataforma IoT agora aceitará conexões MQTT não seguras. Deixe a janela do navegador mostrando o console da IoT Platform aberto, pois você precisará obter algumas informações ao adicionar o código MQTT ao aplicativo ESP8266.
+No console da plataforma IoT para a instância conectada ao seu aplicativo Boilerplate, entre na seção **Settings**.
 
+Dentro das configurações, selecione **Security** e, em seguida, pressione o botão **Open Connection Security Policy**. 
 
-## Etapa 2 - Como funciona
+Altere o nível de segurança padrão para **TLS Optional**, aceite a mensagem de aviso pressionando o botão Ok e, em seguida, **Save** a alteração. Sua instância da plataforma IoT agora aceitará conexões MQTT não seguras.
+
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/security.png" width="400">
+
+## Etapa 2 - Conectar com o simulador de dispositivo na IBM Watson IoT Platform
 
 Ao conectar-se à plataforma Watson IoT, há alguns requisitos em alguns parâmetros usados durante a conexão.
 A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/reference/security/connect_devices_apps_gw.html#connect_devices_apps_gw) oferece mais detalhes:
@@ -21,19 +27,24 @@ A [documentação da plataforma](https://console.bluemix.net/docs/services/IoT/r
    - device type
    - device id
    - device token
-   - formato tópico para publicar dados : iot-2/evt/< **event id** >/fmt/<  **format string** >
-   - iot-2/evt/status/fmt/json
+   - Tópico: iot-2/evt/status/fmt/json
    
   
-2. App Watson IoT Sensor Simulator (http://watson-iot-sensor-simulator.mybluemix.net/)
-
-Acesse o link http://watson-iot-sensor-simulator.mybluemix.net/
+2. Acesse o App Watson IoT Sensor Simulator no endereço http://watson-iot-sensor-simulator.mybluemix.net/
 
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iotsim.png" width="400">
 
-3. Após o registro, uma tela similar a figura abaixo deve ser exibida:
+3. Será apresentada a tela de registro, onde você deve fornecer os dados de org id, device type, device id e device token criados no laboratório anterior.
+
+Após o registro, uma tela similar a figura abaixo deve ser exibida:
 
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/devicesim.png" width="300">
+
+Pronto ! Agora você tem o simulador de dispositivos configurado e conectado na IBM Watson IoT Platform.
+
+Acesse o menu **Dispositivos** ou **Devices** e selecione o dispositivo criado (simulador01) e você deve ver os dados chegando em tempo real do simulador para a IBM Watson IoT Platform
+
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/json.png" width="300">
 
 ***
 *Links Rápidos :*
