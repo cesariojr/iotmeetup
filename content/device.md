@@ -29,7 +29,6 @@ A [documentação da plataforma](https://cloud.ibm.com/docs/services/IoT/referen
    - Device token
    - Tópico: iot-2/evt/status/fmt/json
    
-  
 2. Acesse o App Watson IoT Sensor Simulator no endereço http://watson-iot-sensor-simulator.mybluemix.net/
 
 <p align="center">
