@@ -7,7 +7,7 @@ A Internet das Coisas é um conjunto de tecnologias que vem evoluindo há décad
 As principais tecnologias combinam capacidades de computação, comunicação e controle, simultaneamente e podem ser aplicadas em diversas áreas e combinadas com outras tecnologias.
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iot.png" width="300">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/iot.png" width="400">
 </p>
 
 Figura 1: Definição de "coisa" digital
@@ -27,7 +27,6 @@ As seguintes tecnologias evoluiram nos últimos anos e possibilitaram que soluç
 Essas tecnologias podem cobrir desde redes de comunicação (2G/3G/4G, WiFi, BLE, ZigBee, LoRa, etc), plataformas de prototipação (Arduino, Raspberry Pi, NodeMCU, etc) e plataformas profissionais embarcadas (ARM, PIC, etc), Tecnologias de Automação (CLPs, PCs Industriais, sistemas supervisórios/SCADA, MES, etc) protocolos novos e legados (HTTP, MQTT, COAP, AMQP, OPC-UA, etc), tecnologias de segurança (TLS/SSL, criptografia, segurança lógica e física, etc) que irão conectar-se com aplicações através de APIs e das mais diversas linguagens de programação.
 
 ## Protocolo MQTT
-* adaptado de https://developer.bosch.com/web/xdk/mqtt1
 
 O protocolo MQTT (Message Queuing Telemetry Transport) foi desenvolvido pela IBM para possibilitar transferÊncia de dados com uso mínimo de largura de banda e gasto mínima de bateria de dispositivos, conectando oleodutos através de conexão via satélite.
 
@@ -37,8 +36,10 @@ Atualmente é um padrão aberto e ganhou grande aceitação no ambiente IoT e ma
 
 O protocolo MQTT é baseado em TCP/IP e todos os clientes e o broker precisam ter uma pilha TCP/IP. O tamanho máximo do payload é de 131072 bytes (128K). Veja a representação simplificada do modelo ISO/OSI na figura abaixo:
 
+* Adaptado de https://developer.bosch.com/web/xdk/mqtt1
+
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/mqtt.png" width="300">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/mqtt.png" width="400">
 </p>
 
 ***
