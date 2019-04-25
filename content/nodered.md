@@ -4,11 +4,12 @@
 
 Em primeiro lugar, retorne ao portal IBM Cloud e acesse a lista de recursos.
 
-A seguir acesse o aplicativo de Cloud Foundry instanciado anteriormente
+A seguir acesse o aplicativo de Cloud Foundry instanciado anteriormente.
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/resource-list.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/resource-list.png" width="700">
 </p>
 
+Então, a fim de visualizar a aplicação node-RED, clique em **Visit URL**
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered01.png" width="600">
 </p>
