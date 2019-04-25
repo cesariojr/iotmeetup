@@ -1,10 +1,11 @@
 # Parte 3 - Criando e Implantando um Boilerplate
 
-Um ***boilerplate*** é um conjunto de serviços da IBM Cloud conectados para atuar como uma aplicação completa na nuvem. Nesse laboratório criaremos um boilerplate (ou Kit de Iniciante) chamado Internet of Things Platform Starter, que é composto de um runtime Node.js com NodeRED, um banco de dados NoSQL Cloudant e o serviço de Internet das Coisas IBM Watson IoT Platform.
+Um *boilerplate* é um conjunto de serviços da IBM Cloud conectados para atuar como uma aplicação completa na nuvem. Nesse laboratório criaremos um boilerplate (ou Kit de Iniciante) chamado Internet of Things Platform Starter, que é composto de um runtime Node.js com NodeRED, um banco de dados NoSQL Cloudant e o serviço de Internet das Coisas IBM Watson IoT Platform.
 
 ## Criação da aplicação
-Acesse a IBM Cloud e faça login em sua conta. Após fazer login com a sua IBM account:
+Acesse a IBM Cloud e faça login em sua conta. Após fazer login com a sua conta IBM:
 1. Na barra de pesquisa localizada no menu superior, procure por "Internet of Things Platform Starter"
+
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/search-bar.png" width="500">
 
 
