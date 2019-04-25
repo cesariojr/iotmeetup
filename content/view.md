@@ -11,7 +11,7 @@ Dentro de IBM Watson IoT Platform, acesse o meu lateral, e então clique em **Bo
 Clique no botão "+" para adicionar um novo *board*. A seguinte tela deverá ser exibida:
 
 <p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/board.png" width="500">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/new-board.png" width="500">
 </p>
 
 ***
