@@ -9,7 +9,7 @@ A seguir acesse o aplicativo de Cloud Foundry instanciado anteriormente.
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/resource-list.png" width="700">
 </p>
 
-Então, a fim de visualizar a aplicação node-RED, clique em **Visit URL**
+Então, a fim de visualizar a aplicação node-RED, clique em **Visit App URL**
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered01.png" width="600">
 </p>
