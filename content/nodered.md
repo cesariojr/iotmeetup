@@ -38,11 +38,15 @@ O seguinte *flow* de Node-RED deverá ser exibido:
 
 Para capturar os dados armazenados no IBM Watson IoT Platform, clique duas vezes no nó **IBM IoT App In**, e então em **Device ID**, selecione **All or**. Clique em **Done** para finalizar.
 
-Uma vez o nó do IBM Watson IoT App In configurado, configure o nó **temp**, clicando-o duas vezes.
+Uma vez configurado o nó do IBM IoT App In, configure o nó **temp**, clicando-o duas vezes.
 
 Na função de pré-inserida, baseado no corpo JSON a ser enviado pela plataforma Watson IoT, deve-se substituir a chave **temp** por **temperature**.
 
-## Etapa 4 - Instalando o Node-Red Dashboard
+## Etapa 4 - Instalando e configurando o Node-Red Dashboard
+
+Em primeiro lugar, adicione um novo *flow* clicando no botão "+", localizado no canto superior direito.
+
+Do **Flow 1**, copie os nós **IBM IoT App In** e **temp** para o **Flow 2**.
 
 Para a criação de um *dashboard* Node-RED, deve-se instalar tal biblioteca. Para isso, no canto superior direito, acesse no menu-sanduíche e então clique em **Managa palette**. Na aba **install**, pesquise por "node-red-dashboard" e então, o instale.
 
@@ -50,13 +54,35 @@ Para a criação de um *dashboard* Node-RED, deve-se instalar tal biblioteca. Pa
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/nodered05.png" width="400">
 </p>
 
-## Etapa 5 - Configurando dashboard
-
 Uma vez instalado o *dashboard* padrão do Node-RED, no menu lateral esquerdo, busque por **dashboard** e insira no *flow* um nó de **gauge**, por exemplo.
 
-Então, conecte o fornecedor de dados (no caso, o nó IBM Watson IoT App In) ao nó inserido.
+Conecte o fornecedor de dados (no caso, o nó IBM Watson IoT App In) ao nó de função (que envia o valor de temperatura).
 
-Para configurar o nó criado, clique duas vezes e entç
+E então, a fim de configurar o *dashboard*, clique duas vezes no nó **gauge**.
+
+Para cadastrar um **Group**, adicione uma **Tab** ao grupo como na imagem abaixo:
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/tab.png" width="400">
+</p>
+
+Insira as propriedades de grupo:
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/group.png" width="400">
+</p>
+
+E as propriedades gerais do nó **gauge**:
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/gauge.png" width="400">
+</p>
+
+Pronto! As configurações já estão feitas! Basta agora, fazer o *deploy* e visualizar a aplicação através do botão **dashboard**.
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/visu.png" width="400">
+</p>
 
 ***
 Links Rápidos :
