@@ -26,7 +26,7 @@ Após selecionar o botão o botão **Criar** (ou Create), o boilerplate irá ins
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/starting.png" width="700">
 </p>
 
-Após alguns instantes, na lista de recursos, você deverá encontrar sua aplicação e os seguintes serviços
+Após alguns instantes, clique no menu no canto superior esquerdo e acesse **Resource List**, você deverá encontrar sua aplicação e os seguintes serviços
 
 <p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/resource-list.png" width="700">
