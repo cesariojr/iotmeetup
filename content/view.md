@@ -14,6 +14,38 @@ Clique no botão "+" para adicionar um novo *board*. A seguinte tela deverá ser
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/new-board.png" width="500">
 </p>
 
+Adicione os campos solicitados:
+
+* Board name (e.g. MEETUP IOT)
+* Description (e.g. Leitura de sensores)
+
+Selecione como **ATIVO** os seguintes itens:
+
+* **Make this board my landing page.**
+* **Favorite (this also adds this board to your navbar)**
+
+E então, prossiga apertando o botão **Submit**.
+
+Após isso, verifique que o *board* criado se encontra presente na seção **Your boards**
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/new-board.png" width="500">
+</p>
+
+A seguir, a fim de adicionar um novo *card* para visualização das saídas do dispositivo, clique em **+ Add New Card**.
+
+Selecione a forma de exibição **Line chart**, e então selecione o dispositivo de entrada como ilustrado na imagem abaixo:
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/line-chart.png" width="500">
+</p>
+
+Clique em **Next**, e a seguir crie um novo *dataset* como no exemplo:
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/new-board.png" width="500">
+</p>
+
 ***
 Links Rápidos :
 [Índice](https://github.com/cesariojr/iotmeetup/) - [Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/boilerplate.md) - [Parte 4](/content/platform.md) - [Parte 5](/content/device.md) - [Parte 6](/content/view.md) - [Parte 7](/content/nodered.md) - [Parte 8](/content/next.md)
