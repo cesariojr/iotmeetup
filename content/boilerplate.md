@@ -6,27 +6,34 @@ Um *boilerplate* é um conjunto de serviços da IBM Cloud conectados para atuar 
 Acesse a IBM Cloud e faça login em sua conta. Após fazer login com a sua conta IBM:
 1. Na barra de pesquisa localizada no menu superior, procure por "Internet of Things Platform Starter"
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/search-bar.png" width="500">
-
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/search-bar.png" width="700">
+</p>
 
 2. Na tela apresentada, insira um nome para o seu aplicativo
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/iot-name.png" width="500">
 
 Obs: O nome do seu aplicativo deve ser **único** para seu aplicativo, portanto uma boa convenção de nomenclatura é usar suas iniciais seguidas de um nome que descreva o objetivo do aplicativo ou o nome da solução. Isso também fará parte do URL do aplicativo.
 
-3. Em seguida, selecione o local e o espaço em que você deseja implantar o aplicativo. Deixe as informações do plano selecionado com a versão **lite** e selecione o botão **Criar** (ou Create).
+3. Em seguida, selecione o local e o espaço em que você deseja implantar o aplicativo. Deixe as informações do plano selecionado com a versão **lite** e selecione o botão **Criar**.
 
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/boilerplate.png" width="500">
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/boilerplate.png" width="700">
+</p>
 
 ## Processo de instanciação dos serviços e aplicação
 Após selecionar o botão o botão **Criar** (ou Create), o boilerplate irá instanciar cada um dos serviços descritos.
 **Esse processo levará em torno de 5 minutos:**
 
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/starting.png" width="500">
+</p>
 
 Após alguns instantes, na lista de recursos, você deverá encontrar sua aplicação e os seguintes serviços
 
+<p align="center">
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/resource-list.png" width="500">
+</p>
 
 ***
 *Links Rápidos :*
