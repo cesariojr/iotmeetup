@@ -11,17 +11,12 @@ Acesse a IBM Cloud e faça login em sua conta. Após fazer login com a sua conta
 </p>
 
 2. Na tela apresentada, insira um nome para o seu aplicativo
-<p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/iot-name.png" width="700">
-</p>
+
 
 Obs: O nome do seu aplicativo deve ser **único** para seu aplicativo, portanto uma boa convenção de nomenclatura é usar suas iniciais seguidas de um nome que descreva o objetivo do aplicativo ou o nome da solução. Isso também fará parte do URL do aplicativo.
 
 3. Em seguida, selecione o local e o espaço em que você deseja implantar o aplicativo. Deixe as informações do plano selecionado com a versão **lite** e selecione o botão **Criar**.
 
-<p align="center">
-<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/boilerplate.png" width="700">
-</p>
 
 ## Processo de criação das instâncias dos serviços
 Após selecionar o botão o botão **Criar** (ou Create), o boilerplate irá instanciar cada um dos serviços descritos.
