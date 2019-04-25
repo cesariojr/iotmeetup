@@ -9,9 +9,7 @@ Começaremos usando uma conexão MQTT sem TLS (não segura). No entanto, a IBM W
 
 ## Etapa 1 - Configurar o IBM Watson IoT Platform para permitir conexões não seguras
 
-No console da plataforma IoT para a instância conectada ao seu aplicativo Boilerplate, entre na seção **Settings**.
-
-Dentro das configurações, selecione **Security** e, em seguida, pressione o botão **Open Connection Security Policy**. 
+No console da plataforma IoT para a instância conectada ao seu aplicativo Boilerplate, entre na seção **Security** e, em seguida, o **Connection Security**. 
 
 Altere o nível de segurança padrão para **TLS Optional**, aceite a mensagem de aviso pressionando o botão Ok e, em seguida, **Save** a alteração. Sua instância da plataforma IoT agora aceitará conexões MQTT não seguras.
 
