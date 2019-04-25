@@ -46,6 +46,14 @@ Clique em **Next**, e a seguir crie um novo *dataset* como no exemplo:
 <img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/dataset.png" width="500">
 </p>
 
+Prossiga com a etapa de criação e então, para melhor visualização, selecione o tamanho XL.
+
+Clique em **Next**, e finalmente insira um título à ferramenta de visualização a ser criada.
+
+<p align="center">
+<img src="https://github.com/cesariojr/iotmeetup/blob/master/content/images/title.png" width="500">
+</p>
+
 ***
 Links Rápidos :
 [Índice](https://github.com/cesariojr/iotmeetup/) - [Parte 1](/content/intro.md) - [Parte 2](/content/prereq.md) - [Parte 3](/content/boilerplate.md) - [Parte 4](/content/platform.md) - [Parte 5](/content/device.md) - [Parte 6](/content/view.md) - [Parte 7](/content/nodered.md) - [Parte 8](/content/next.md)
